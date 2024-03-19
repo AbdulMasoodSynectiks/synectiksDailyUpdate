@@ -19,3 +19,6 @@ AWS COST ANOMALIES LINKS
 1. **Blog on Machine Learning Based Anomaly Detection** : https://www.bmc.com/blogs/machine-learning-anomaly-detection/
 2. **ML-Powered Anomaly Detection for Pinterest** : https://medium.com/pinterest-engineering/building-a-real-time-anomaly-detection-system-for-time-series-at-pinterest-a833e6856ddd
 3. **INSPIRATION** :  https://azure.microsoft.com/en-us/products/ai-services/ai-anomaly-detector
+
+
+# My notion page : https://www.notion.so/COST-ANOMALY-DETECTION-c8e81655b87846eb8448a3368641cc27
