@@ -15,7 +15,3 @@ Continued my research on 'Cost Anomaly Detection'
 ==>https://www.xenonstack.com/blog/how-to-manage-and-detect-cloud-cost-anomalies
 ==>https://www.xenonstack.com/use-cases/anomaly-detection
 
-// Images references
-
-==>https://www.cloudzero.com/wp-content/uploads/2023/10/cloudzero-deployment.webp
-==>https://www.cloudzero.com/wp-content/uploads/2023/10/foundation-of-cloud-spend.svg
